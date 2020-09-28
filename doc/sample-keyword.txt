@@ -1,0 +1,32 @@
+"3":{"id":3,"subject":"주소지","name":"홍길동","memo":"메모"}}
+(양식)
+
+(응용 -> POST 등록 명령)
+-> {"id":3,"subject":"주소지","name":"홍길동","memo":"메모"}
+
+
+(응용 -> PUT, PATCH 수정 명령)
+-> {"id":3,"subject":"주소지","name":"홍길동","memo":"메모"}
+
+
+-----------------------------------------------------
+
+POST /restexample2/file/uploadFileModelAttribute/new HTTP/1.1
+Host: localhost:8080
+Connection: keep-alive
+Content-Length: 24211
+Cache-Control: max-age=0
+Upgrade-Insecure-Requests: 1
+Origin: http://localhost:8080
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundarya1HOiexOytPpWx8U
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 Edg/85.0.564.63
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/restexample2/fileUploadView
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ko,en;q=0.9,en-US;q=0.8,ja;q=0.7,de;q=0.6
+Cookie: JSESSIONID=C1BB03C6629263A6B77084AA15CDF947
+         }
