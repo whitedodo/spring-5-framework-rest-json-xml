@@ -33,10 +33,11 @@ Spring Framework 5.4로 DB없이 순수하게 REST 구현하였음.(Pure REST im
 ##### (A bulletin board model was tested using the data structure.)
 
 ### 2. 시연(Demonstration)
+##### 1. Spring Framework 5.4 - REST 구현 프로젝트(순수 버전), https://youtu.be/5kFUbJT7QXs, Accessed by 2020-09-29, Last Modified 2020-09-29.
 
 ### 3. 참고자료(Reference)
 ##### 1. Maven Repository: Search/Browse/Explore, https://mvnrepository.com/, Accessed by 2020-09-28, Last Modified .
 ##### 2. Maven - Welcome to Apache Maven, https://maven.apache.org/, Accessed by 2020-09-28, Last Modified .
 ##### 3. Spring | Tools, https://spring.io/tools, Accessed by 2020-09-28, Last Modified .
 ##### 4. OpenJDK, https://openjdk.java.net/, Accessed by 2020-09-28, Last Modified .
-##### 
+##### 5
